@@ -1,3 +1,7 @@
+# Layout da aplicação
+Foi desenvolvido exclusivamente pela equipe da Rocketseat: 
+![Layout da aplicação](./.github/Layout.png "Layout")
+
 # 💻 Sobre o desafio
 
 Nesse desafio, você deverá criar uma aplicação para treinar o que aprendeu até agora no ReactJS
